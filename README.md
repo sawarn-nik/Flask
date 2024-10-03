@@ -90,11 +90,11 @@ Technologies Used
 
 ### Home Page
 
-![Home Page](https://raw.githubusercontent.com/sawarn-nik/Flask/main/screenshots/homepage.png)
+![Home Page](screenshots/homepage.png)
 
 ### Update ToDo
 
-![Update Page](https://raw.githubusercontent.com/sawarn-nik/Flask/main/screenshots/updatepage.png)
+![Update Page](screenshots/updatepage.png)
 
 
 Author
