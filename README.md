@@ -24,7 +24,6 @@ Before running this project, ensure you have the following installed:
 
 ## Project Structure
 
-```plaintext
 project-folder/
 │
 ├── app.py              # Main Flask application
@@ -90,13 +89,13 @@ Technologies Used
 
 ### Home Page
 
-![Home Page](screenshots/homepage.png)
+![Home Page](./screenshots/homepage.png)
 
 ### Update ToDo
 
 ![Update Page](screenshots/updatepage.png)
 
 
-Author
+### Author
 
-	•	Nikhil Kumar - https://github.com/sawarn-nik
+[Nikhil Kumar](https://github.com/sawarn-nik)
